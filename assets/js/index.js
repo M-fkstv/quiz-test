@@ -1,4 +1,4 @@
-import '../css/index.css';
+import '../css/index.css'; //выдаёт ошибку в консоль
 
 const burgerBtn = document.querySelector('.header__burger');
 const nav = document.querySelector('.header__nav');
